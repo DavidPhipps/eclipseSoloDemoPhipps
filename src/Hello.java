@@ -10,5 +10,6 @@ public class Hello {
 		System.out.println("Why is this no longer working");
 		
 		int skronklo = 25;
+		System.out.println("Whats up stinky smelly");
 	}
 }
