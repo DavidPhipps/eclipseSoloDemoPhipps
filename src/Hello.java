@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Guys I think programmer 1 is kind of a dork");
 		System.out.println("This is programmer 2!");
 		System.out.println("This is programmer 1");
-
+		
+		int skronklo = 25;
 	}
 }
